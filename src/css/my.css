@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "KPMG Light";
+    src: url('../fonts/KPMG-Light.eot');
+    src: url('../fonts/KPMG-Light.eot?#iefix') format('embedded-opentype'),url('../fonts/KPMG-Light.woff2') format('woff2'),
+        url('../fonts/KPMG-Light.woff') format('woff'),url('../fonts/KPMG-Light.ttf') format('truetype'),url('../fonts/KPMG-Light.svg#KPMG-Light') format('svg');
+}
+
+@font-face {
+    font-family: "KPMG Greek Light";
+    src: url('../fonts/KPMG-Greek-Light.eot');
+    src: url('../fonts/KPMG-Greek-Light.eot?#iefix') format('embedded-opentype'),url('../fonts/KPMG-Greek-Light.woff2') format('woff2'),
+        url('../fonts/KPMG-Greek-Light.woff') format('woff'),url('../fonts/KPMG-Greek-Light.ttf') format('truetype'),url('../fonts/KPMG-Greek-Light.svg#KPMG-Greek-Light') format('svg');
+}
+
+html{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+body {
+    border-color: red;
+    background-color: red;
+}
